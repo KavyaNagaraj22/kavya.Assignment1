@@ -1,0 +1,54 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>My Resume</title>
+    </head>
+    <body>
+        <main>
+            <section><h1>
+                Kavya.N<br>
+                Master of Computer Application<br>
+                Phone : 7760657152<Br>
+                Email : kavyanm13@gmail.com</h1>
+            </section>
+            <section><h1>Objective : </h1>
+                <ol>Pursuing opportunity which will allow me to grow Professionally, while effectively
+                utilizing my versatile skill set to help promote your corporate mission and exceed
+                team goals.</ol>
+            </section>
+            <section><h1>Education :</h1> 
+                <ol>Jyoti Nivas College Autonomous , Post Graduate Center , Bangalore<br>
+                2023 – 2025<br>
+                Master of Computer Application<br>
+                Pursuing</ol></section>
+            
+                <section><ol>Jyoti Nivas College Autonomous , Bangalore<br>
+                2019 – 2022<br>
+                Bachelors of Computer Application<br>
+                Percentage : 61</ol></section>
+           
+                <section><ol>Vidhya Jyothi Pre University College , Bangalore <br>
+                2017 – 2019<br>
+                PUC , Karnataka Pre-University college Board<br>
+                Percentage : 78</ol></section>
+            
+                <section><ol>Vidhya Jyothi High school , Bangalore<br>
+                2017<br>
+                SSLC , KSEEB<br>
+                Percentage : 68</ol></section>
+            <section><h1>Skills :</h1> 
+                <ol>C , C++ , Python ,Unix , HTML, Java, Android , SQL</ol></section>
+            <section><h1>Hobbies :</h1> 
+                <ol>Listening to music , Gardening , Cooking</ol></section>
+            <section><h1>Projects :</h1> 
+                <ol>Mini project on Inventery Management System<br>
+                Web Application on Courier Management System</ol></section>
+            <section><h1>Languages Known :</h1> 
+                <ol>English , Kannada , Hindi , Tamil , Telugu</ol></section>
+            <section><h1>Certification :</h1> 
+                <ol>Microsoft Technology Associative – Introduction to Programming using Python Certified.</ol></section>
+            <section><h1>Declaration :</h1> 
+                <ol>I hereby declare that above furnished information are true to the best of my knowledge.</ol></section>
+        </main>
+    </body>
+</html>
