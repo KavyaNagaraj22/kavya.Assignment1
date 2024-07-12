@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Tag</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .button-container {
+            margin: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            color: #fff;
+            background-color: Blue;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: Blue;
+        }
+        .alert-button {
+            background-color: Blue;
+        }
+        .alert-button:hover {
+            background-color: Blue;
+        }
+        .confirm-button {
+            background-color: Blue;
+        }
+        .confirm-button:hover {
+            background-color: Blue;
+        }
+        .submit-button {
+            background-color: Blue;
+        }
+        .submit-button:hover {
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Button Tag</h1>
+
+    
+    <div class="button-container">
+        <button onclick="alert('Button1 Clicked!')">Button1</button>
+    </div>
+
+    
+    <div class="button-container">
+        <button class="submit-button" onclick="alert('Button2 Clicked!')">Button2</button>
+    </div>
+
+    <div class="button-container">
+        <button onclick="showAlert()" class="Button3 Clicked">Button3</button>
+    </div>
+
+    <div class="button-container">
+        <button onclick="confirmAction()" class="Button4 Clicked">Button4</button>
+    </div>
+
+    <script>
+        function showAlert() {
+            alert('Button3 Clicked!');
+        }
+
+        function confirmAction() {
+            if (confirm('Button4 Clicked')) {
+                alert('U Clicked all Button!');
+            } 
+        }
+    </script>
+</body>
+</html>
